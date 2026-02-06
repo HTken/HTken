@@ -9,10 +9,6 @@
   <p><strong>Android App Developer ⚡ Web Specialist 🌐 Full Stack Developer</strong></p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
 ### 🚀 About Me
 - 📱 Mobile App Developer specializing in **Kotlin**.
 - 🏗️ Full Stack Developer: **Angular + Node.js + Firebase** for web projects.
