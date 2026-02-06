@@ -9,12 +9,12 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-### 🚀 Sobre mí
-- 📱 Desarrollador de aplicaciones móviles con **Kotlin**.
-- 🏗️ Full Stack: **Angular + Node.js + Firebase** para proyectos web.
-- 🛠️ Experiencia con: **MongoDB, React, Laravel, Java y Python**.
-- 🎨 Amante del detalle en el diseño con **Tailwind CSS**.
-- 🖋️ Freelance / Desarrollador Independiente.
+### 🚀 About Me
+- 📱 Mobile App Developer specializing in **Kotlin**.
+- 🏗️ Full Stack Developer: **Angular + Node.js + Firebase** for web projects.
+- 🛠️ Experienced in: **MongoDB, React, Laravel, Java, and Python**.
+- 🎨 Design enthusiast with a focus on detail using **Tailwind CSS**.
+- 🖋️ Freelance / Independent Developer.
 
 ---
 
@@ -56,8 +56,15 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/htken/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="htken58@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="email" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/htken/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="https://discordapp.com/users/912484674419458079" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+  </a>
+  <a href="mailto:htken58@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" height="50" width="50" />
+  </a>
 </p>
 
 <div align="center">
