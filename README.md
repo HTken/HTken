@@ -62,7 +62,7 @@
   <a href="https://discordapp.com/users/912484674419458079" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
   </a>
-  <a href="mailto:htken58@gmail.com">
+  <a href="htken58@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="email" height="50" width="50" />
   </a>
 </p>
