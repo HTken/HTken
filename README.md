@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="gato blanco.jpg" width="100%" alt="Banner Ken">
+  <img src="white cat.jpg" width="100%" alt="Banner Ken">
 </div>
 
 <div align="center">
